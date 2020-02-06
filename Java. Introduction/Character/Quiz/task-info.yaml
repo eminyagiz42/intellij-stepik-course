@@ -1,0 +1,25 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: -90
+- text: A
+- text: 65
+- text: an exception will happen
+message_correct: Congratulations!
+message_incorrect: Incorrect solution
+files:
+- name: src/Main.java
+  visible: true
+  text: |
+    // you can experiment here, it won't be checked
+
+    class Task {
+      public static void main(String[] args) {
+        // put your code here
+      }
+    }
+  learner_created: false
+status: Solved
+record: -1
+selected_options:
+- 1

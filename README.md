@@ -1,4 +1,4 @@
-# intellij-stepnik-course
+# intellij-stepik-course
 
 my java solutions of course bellow:
 
